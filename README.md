@@ -18,7 +18,7 @@
 执行如下命令一键安装 1Panel arm32:
 
 ```sh
-curl -sSL https://dl.hmhl.info/1panel/package/quick_start.sh -o quick_start.sh && sudo bash quick_start.sh
+1Panel官方已发布可用的arm-dev，项目已停止维护。
 ```
 
 ## 官方仓库
